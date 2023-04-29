@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\acl-app.csproj": {}
+    "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\acl-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\acl-app.csproj": {
+    "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\acl-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\acl-app.csproj",
+        "projectUniqueName": "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\acl-app.csproj",
         "projectName": "acl-app",
-        "projectPath": "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\acl-app.csproj",
+        "projectPath": "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\acl-app.csproj",
         "packagesPath": "C:\\Users\\sophi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\obj\\",
+        "outputPath": "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

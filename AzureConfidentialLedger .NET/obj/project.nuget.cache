@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Gqty/oFS2+YrED8SmczuPTyBbV/naxL6MPQapGxeGqiQlo+cVlz+l2dBVIWyeJq63BLu9ZtOTr3x8jsQCkxeQ==",
+  "dgSpecHash": "t8/dRvTbCoVt2jwLWAP1tDARdsqFurmoUHZDlEIP6MH6LW2cM9Id3f5FZHbKJ4JjRqNgL9XpCvAMvG6yahkM6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sophi\\Downloads\\acl-app\\acl-app\\acl-app.csproj",
+  "projectFilePath": "C:\\Users\\sophi\\OneDrive\\Documentos\\GitHub\\Blockchain\\Azure confidential ledger\\acl-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sophi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sophi\\.nuget\\packages\\azure.identity\\1.8.2\\azure.identity.1.8.2.nupkg.sha512",
